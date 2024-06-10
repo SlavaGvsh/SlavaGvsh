@@ -18,7 +18,7 @@
 </p>
 
 ## Experience:
-* Freelance (6 month) 
+* Freelance 1.5 years
 * layout of landing pages, adaptive layouts. 
 
 ## Skills:
@@ -36,4 +36,19 @@
 * developer.mozilla.org (2022);
 * YouTube channel “Фрилансер по жизни” (2022); 
 * HTML & CSS, Spalah IT School, Kharkiv (2016).
+* ## Projects
+### [Project 1](https://slavagvsh.github.io/Agrios/)
+Here is a brief description of a website project for an agricultural farm, written using CSS, SCSS, jQuery and the BEM (Block, Element, Modifier) ​​methodology:
+
+Project: Website for an agricultural farm
+Description:
+This project is a modern and interactive agri-farm website designed using advanced technologies and methodologies to ensure user experience and ease of support. The site provides users with information about the farm, services and products, as well as the ability to contact the farm and place orders online.
+
+Technologies:
+CSS and SCSS: To style the site, cascading style sheets (CSS) and their SCSS preprocessor are used, which allows you to write more structured and maintainable code.
+jQuery: Used to create interactive elements and improve user experience by dynamically changing content without reloading the page.
+BEM: The BEM (Block, Element, Modifier) ​​methodology is applied to organize the code, which ensures modularity and reuse of components.
+
+### [Project 2](https://slavagvsh.github.io/Agrios-gulp/)
+Gulp was used to automate the development and build tasks of the project. To automate development tasks including SCSS to CSS compilation, CSS and JavaScript minification, and image optimization.
 
