@@ -24,6 +24,7 @@
 ## Skills:
 * HTML5, CSS3, SCSS;
 * Flex, Bootstrap;
+* Gulp was used to automate the development and build tasks of the project;
 * BEM;
 * Git & GitHub;
 * Figma, Adobe Photoshop, Avocode;
