@@ -1,4 +1,4 @@
-# Hi, I'm Vycheslav 👋
+# Hi, I'm Viacheslav 👋
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=SlavaGvsh&show_icons=true&count_private=true"><img
            height=150
