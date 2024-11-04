@@ -18,7 +18,7 @@
 </p>
 
 ## Experience:
-* Freelance 1.5 years
+* Freelance 1+ years
 * layout of landing pages, adaptive layouts. 
 
 ## Skills:
