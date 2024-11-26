@@ -31,7 +31,7 @@
 * Wordpress.
 
 ## Languages:
-* English: A1.
+* English: A2.
 
 ## Courses and self-education:
 * developer.mozilla.org (2022);
